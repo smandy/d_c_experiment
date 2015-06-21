@@ -1,0 +1,10 @@
+glob:*.o
+glob:*.png
+glob:*.a
+glob:.sconsign.dblite
+glob:*~
+glob:*.dblite
+glob:*.pyc
+regexp:.*\#.*#$
+glob:.idea/**
+glob:myMain
