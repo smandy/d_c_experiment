@@ -12,7 +12,6 @@ void myGreet( char *s) {
   printf("Awright %s!!!\n", s);
 };
 
-
 MyStruct* getStruct() {
   MyStruct* ret = (MyStruct*) malloc( sizeof( MyStruct));
   printf("Ret lives at %p\n", ret);
